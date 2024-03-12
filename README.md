@@ -8,8 +8,15 @@ First, clone this repository:
 ## Disclaimer about dependencies
 
 ## How to run this Springboot application
-* Method 1:
- you need to start the application using intellij IDE
+* You can run this application using intellij IDE.
+* Just clone this repo and run CartServiceApplication
+* ![image](https://github.com/BarryByte/Cart-Service-Springboot-application/assets/145528099/af71305a-bc58-4c48-8ad7-182329ed3865)
+* Open postman link is here -> https://www.postman.com/
+* Set up your account
+* Go to my workspace -> new untitled Request
+* Now you can visit https://fakestoreapi.com/docs for all the http request made, all their output, etc...
+* 
+
  
 
 
